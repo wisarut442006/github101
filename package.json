@@ -1,0 +1,24 @@
+{
+  "name": "github101",
+  "version": "1.0.0",
+  "description": "ตัวอย่างการใช้งาน Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisarut442006/github101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wisarut442006/github101/issues"
+  },
+  "homepage": "https://github.com/wisarut442006/github101#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

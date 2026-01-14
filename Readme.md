@@ -4,4 +4,6 @@
 
 ## Set up
 
+```
 npm install
+```
