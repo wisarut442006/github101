@@ -8,7 +8,7 @@
 npm install
 ```
 
-email is Wisarut442006@gmail.com
+email is Wisarut4888@gmail.com
 =======
 
 my email is WIsarut456489@gmail.com
